@@ -1,0 +1,26 @@
+body {
+  color: #363636;
+}
+
+header {
+  display: block;
+  text-align: center;
+  margin: 50px 20px 20px 20px;
+  text-shadow: 2px 2px 5px #B5B5B5;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+header h3 {
+  margin-top: 5px;
+}
+
+header hr {
+  color: #CFCFCF;
+  max-width: 400px;
+  border-color: #CFCFCF;
+  background-color: #CFCFCF;
+  box-shadow: 2px 2px 5px #B5B5B5;
+}
